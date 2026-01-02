@@ -1,4 +1,4 @@
 def greet():
-    print("Version from Person B")
+    print("New Version from Person A")
 
 greet()
