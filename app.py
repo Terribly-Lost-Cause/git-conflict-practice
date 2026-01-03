@@ -1,8 +1,5 @@
 def greet():
-    print("Hello from B")
-    print("Hello from B")
-    print("Hello from B")
-    print("Hello from B")
-    print("Hello from A")
+    print("Greetings from branch A")
+    
 
 greet()
